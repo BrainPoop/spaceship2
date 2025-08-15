@@ -1,10 +1,10 @@
 {
-  "author": "Spaceship CO",
-  "base": "/astro-theme-spaceship/",
+  "author": "  BrainPoop",
+  "base": "/",
   "defaultLocale": "en",
   "description": "Ship your Second Brain into the Cyber-Space",
-  "site": "https://aitorllj93.github.io",
-  "title": "Spaceship",
+  "site": "https://spaceship2-bice.vercel.app/",
+  "title": "  BrainPoop",
   "displayOptions": {
     "showAuthor": false,
     "showPublishDate": false
